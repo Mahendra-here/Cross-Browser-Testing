@@ -1,6 +1,4 @@
 package Cross;
-
-import static org.testng.AssertJUnit.assertEquals;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
